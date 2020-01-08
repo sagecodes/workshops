@@ -5,6 +5,9 @@
 ## General Programming:
 
 - [Intro programming with Python](https://github.com/sagecodes/intro-to-python)
+- Intro to Python two parts:
+    - [Part one](https://github.com/sagecodes/intro-to-python-part1)
+    - [Part two](https://github.com/sagecodes/intro-to-python-part2)
 - [Intro programming with JavaScript](https://github.com/sagecodes/Learn-to-code-javascript)
 - [Intro to SQL](https://github.com/sagecodes/intro-to-sql)
 - [Intro to Git & Github](https://github.com/sagecodes/intro-git-github)
