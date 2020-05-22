@@ -1,3 +1,7 @@
+# Talks:
+
+- [Make a wildlife detector with you own data set](https://github.com/sagecodes/make-a-wildlife-object-detector)
+
 # Workshops
 
 *note*: these workshops are meant to be run with an instructor and are not always great as stand alone content. 
